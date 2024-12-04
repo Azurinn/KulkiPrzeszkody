@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KulkiZadanie4", "KulkiZadanie4.csproj", "{F4795253-4592-4B46-8822-531E0672142E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizualizacja", "..\Wizualizacja\Wizualizacja.csproj", "{E4DF2B38-8517-4564-9722-4CB17C33E200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4795253-4592-4B46-8822-531E0672142E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4795253-4592-4B46-8822-531E0672142E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4795253-4592-4B46-8822-531E0672142E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4795253-4592-4B46-8822-531E0672142E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DF2B38-8517-4564-9722-4CB17C33E200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DF2B38-8517-4564-9722-4CB17C33E200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DF2B38-8517-4564-9722-4CB17C33E200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DF2B38-8517-4564-9722-4CB17C33E200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF36847E-E9AC-445A-A1F2-46D58663F4BE}
+	EndGlobalSection
+EndGlobal
